@@ -1,0 +1,81 @@
+/* Global Styles */
+
+html,
+body {
+    height: 100%;
+    background-color: ;
+}
+
+body {
+    padding-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+.img-portfolio {
+    margin-bottom: 30px;
+}
+
+.img-hover:hover {
+    opacity: 0.8;
+}
+
+/* Home Page Carousel */
+
+header.carousel {
+    height: 50%;
+}
+
+header.carousel .item,
+header.carousel .item.active,
+header.carousel .carousel-inner {
+    height: 100%;
+}
+
+header.carousel .fill {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+
+
+/* Footer Styles */
+
+footer {
+    margin: 50px 0;
+}
+
+
+/* Add your styles below with comments*/
+
+body{
+
+    background-color: black;
+    font-family: Helvetica;
+}
+
+h1{
+    color: red;
+    font-family: Monotyoe Corsiva;
+    font-style: italic
+}
+
+h2, h5{
+    color: red;
+    font-family: Monotyoe Corsiva;
+}
+
+h3{
+    color:#ffcc00;
+    font-family: Monotyoe Corsiva;
+}  
+   
+        
+p, li{
+    color: white;
+} 
+ 
+fieldset{
+   color: white;
+}
+
